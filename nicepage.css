@@ -36976,7 +36976,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-image-1 {
   width: 332px;
   height: 88px;
-  margin: 0 auto;
+  margin: 1px auto 0;
 }
 
 .u-header .u-logo-image-1 {
@@ -36986,7 +36986,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-menu-1 {
   font-family: size-14;
-  margin: 21px auto;
+  margin: 20px auto 21px;
 }
 
 .u-header .u-nav-1 {
