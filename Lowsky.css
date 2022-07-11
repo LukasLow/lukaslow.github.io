@@ -1,12 +1,12 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 801px;
+  min-height: 988px;
 }
 
 .u-section-1 .u-shape-1 {
   width: 925px;
   height: 378px;
   background-image: none;
-  margin: 283px 0 0 auto;
+  margin: 470px 0 0 auto;
 }
 
 .u-section-1 .u-image-1 {
@@ -395,9 +395,19 @@
 .u-section-4 .u-image-1 {
   width: 118px;
   height: 118px;
-  background-image: url("images/c633e706b1548de9e128db854ac9c40cb39ae2bf72c19173022a388c2be797b4605702d0a831308d2c1e84fc5f42eaaec804dce27575ec54d56aa0_1280.jpg");
+  background-image: url("images/aged-man-1842327_960_720.jpg");
   background-position: 50% 50%;
-  margin: 118px auto 0 106px;
+  margin: 26px auto 0 107px;
+}
+
+.u-section-4 .u-text-2 {
+  margin: 13px 21px 0 13px;
+}
+
+.u-section-4 .u-text-3 {
+  margin-left: 13px;
+  margin-right: 21px;
+  margin-bottom: 0;
 }
 
 .u-section-4 .u-layout-cell-2 {
@@ -408,7 +418,7 @@
   padding: 30px;
 }
 
-.u-section-4 .u-text-2 {
+.u-section-4 .u-text-4 {
   margin: 0 auto 0 0;
 }
 
@@ -438,9 +448,23 @@
     min-height: 610px;
   }
 
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 490px;
+  }
+
   .u-section-4 .u-text-1 {
     margin-right: 0;
     margin-left: 0;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-4 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-4 .u-image-2 {
@@ -475,10 +499,6 @@
     min-height: 1064px;
   }
 
-  .u-section-4 .u-layout-cell-1 {
-    min-height: 166px;
-  }
-
   .u-section-4 .u-container-layout-1 {
     padding-right: 30px;
   }
@@ -507,10 +527,6 @@
     min-height: 751px;
   }
 
-  .u-section-4 .u-layout-cell-1 {
-    min-height: 100px;
-  }
-
   .u-section-4 .u-container-layout-1 {
     padding-right: 10px;
   }
@@ -520,7 +536,7 @@
   }
 
   .u-section-4 .u-layout-cell-2 {
-    min-height: 100px;
+    min-height: 319px;
   }
 
   .u-section-4 .u-container-layout-2 {
@@ -666,6 +682,10 @@
 
   .u-section-5 .u-image-1 {
     min-height: 466px;
+  }
+
+  .u-section-5 .u-text-1 {
+    width: auto;
   }
 
   .u-section-5 .u-image-2 {
